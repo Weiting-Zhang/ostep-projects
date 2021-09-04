@@ -1,4 +1,7 @@
-> This repo is the projects of [Wisconsin University CS-537](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
+> This repo is the projects for [Wisconsin University CS-537](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
+
+- book: http://www.cs.wisc.edu/~remzi/OSTEP/
+- course: https://pages.cs.wisc.edu/~remzi/Classes/537
 
 # Projects for an Operating Systems Class
 
